@@ -1,0 +1,15 @@
+*{border:solid}
+h1{columns: #666666;;background-color:#444444 ;}
+h2{background-color:#123456;}
+
+p{ margin:20px; color:#252525;background-color:#138245;}
+.myheader{
+    padding-left: 10;
+    background-color:#232344;
+    display:flex;justify-content: space-between;
+}
+a:link{color:green}
+a:visited{color:purple}
+h1,h2,p{text-align: center;}
+.item:hover p{opacity:1}
+.item:hover img{opacity:0.33}
